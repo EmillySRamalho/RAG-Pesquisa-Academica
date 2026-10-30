@@ -119,3 +119,5 @@ python -m app.cli
 ```powershell
 python -m unittest discover tests
 ```
+
+Link vídeo demonstração: https://youtu.be/lJbrUl91Vi4 
